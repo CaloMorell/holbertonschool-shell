@@ -1,2 +1,2 @@
 #!/bin/bash
-du -sch *~ /tmp/school
+du -sch *~
