@@ -1,0 +1,2 @@
+#!/ban/bash
+usermod -l nuevo-nombre viejo-nombre
